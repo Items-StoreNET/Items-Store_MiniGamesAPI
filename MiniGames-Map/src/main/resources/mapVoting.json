@@ -1,0 +1,10 @@
+{
+  "mapVotingInventory": {
+    "inventoryName": "§eMap Voting",
+    "inventorySize": 27
+  },
+  "mapVotingItem": {
+    "material": "GRASS_BLOCK",
+    "displayName": "§eMap Voting"
+  }
+}
